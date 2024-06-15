@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinay Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[<h1 align="center">Hi, I'm Vinay Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;Web+Developer;Always+learning+new+things">
 </p>
@@ -10,7 +10,7 @@
 - **Competitive Programmer**: I participate in contests on Codeforces, Leetcode, and more.
 - **Learning**: Currently studying Computer Science and Software Engineering.
 - **Job Opportunity**: Open for new job opportunities. Here's [my resume](https://drive.google.com/file/d/10jw0cHZTsfk3xTYF_GJxJURiwvheYb4x/view?usp=drive_link)).
-- **Website**: Check out [my website](https://cutt.l/Ahmed_HossamWebsite).
+- **Website**: Check out [my website](https://github.com/vinaytheprogrammer).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vinaytheprogrammer" /> </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://codeforces.com/profile/vinaytheprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vinaytheprogrammer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/vinayguptanitjsr/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 <!-- Add other profiles -->
 </p>
 
@@ -87,3 +87,4 @@
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vinaytheprogrammer&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="vinaytheprogrammer" /> </p>
 
 </details>
+](https://leetcode.com/u/vinayguptanitjsr/)
