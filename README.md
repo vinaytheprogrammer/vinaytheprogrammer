@@ -76,11 +76,6 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- 
-<p align="center">
-  
-</p>
 
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
@@ -99,44 +94,32 @@
 <br> 
 
 ---
-
+<br> <br> 
 <p align = "center">
 	 <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<br> 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinaytheprogrammer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vinaytheprogrammer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaytheprogrammer&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-----	
+<br/><br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaytheprogrammer&theme=tokyonight_duo" alt="vinaytheprogrammer" /></p>
+<hr/>
 
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-	    <img alt="Vinaytheprogrammer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinaytheprogrammer&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaytheprogrammer&langs_count=10&show_icons=true&locale=en&theme=tokyonight"  height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-
-
-<details><summary> <h3> Trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vinaytheprogrammer&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="vinaytheprogrammer" /> </p>
-
-	
-</details>
-
-
-</br></br>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
