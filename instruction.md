@@ -21,4 +21,10 @@ Video Walkthrough: https://youtu.be/eHaXw8Bd_ms
 7.  Customize your Socials section (23-33)
 8.  Customize your Tools section (37-42)
 9.  On line 50, change `/vinaytheprogrammer/vinaytheprogrammer/` to `/<your-username>/<your-username>/`. This will make sure that you're fetching your snake contributions svg and not mine.
-10. You're good to go! Make sure to leave a ⭐ if you like this repo!
+10. If you want snake in dark mode theme
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake-dark.svg" />
+
+else if you want snake in light mode theme
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake.svg" />
+than go with this.
+11. You're good to go! Make sure to leave a ⭐ if you like this repo!

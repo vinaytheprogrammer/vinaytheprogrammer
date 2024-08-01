@@ -105,12 +105,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<!-- For light mode -->
-<picture>
- 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake.svg">
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake.svg" />
   
-</picture>
- 
   <br/><br/><br/>
 </div>
