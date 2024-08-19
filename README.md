@@ -75,13 +75,6 @@
 
 
 <br> 
-
----
-<br> <br> 
-<p align = "center">
-	 <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
 <br> 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
