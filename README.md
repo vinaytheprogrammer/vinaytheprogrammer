@@ -69,7 +69,7 @@
 <a href="https://web.postman.co/me?" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </a>
-<a href="https://codepen.io/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
+<a href="https://codepen.io/vinaytheprogrammer" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaytheprogrammer" height="40" width="40" /></a>
 
 </p>
 
