@@ -32,7 +32,7 @@
 <a href="https://www.hackerrank.com/vinaytheprogram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaytheprogram1" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vinaygupta12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 <a href="https://www.naukri.com/code360/profile/vinaygupta" target="blank">
-    <img align="center" src="https://static.vecteezy.com/system/resources/previews/017/431/998/original/ninja-icon-simple-minimal-logo-of-hooded-assassin-isolated-japanese-warrior-idea-of-stealth-vector.jpg" alt="vinaygupta" height="30" width="40" />
+    <img align="center" src="https://img1.pnghut.com/12/15/8/jEG3D0hfHN/github-gulpjs-ninja-shuriken-fictional-character.jpg" alt="vinaygupta" height="30" width="40" />
 </a>
 
 <!-- <a href="https://stackoverflow.com/users/19450935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19450935" height="30" width="40" /></a>
