@@ -33,8 +33,15 @@
 <a href="https://auth.geeksforgeeks.org/user/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 <a href="https://codepen.io/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19450935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19450935" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vinaythepro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinaythepro" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/vinnaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vinnaytheprogrammer" height="30" width="40" /></a>
+<!-- <a href="https://www.codechef.com/users/vinaythepro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinaythepro" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/vinnaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="vinnaytheprogrammer" height="30" width="40" /></a> -->
+	<a href="https://www.codechef.com/users/vinaythepro" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="vinaythepro" height="30" width="40" />
+</a>
+<a href="https://www.hackerearth.com/vinnaytheprogrammer" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerearth-is-a-startup-technology-recruitment-platform-logo-color-tal-revivo.png" alt="vinnaytheprogrammer" height="30" width="40" />
+</a>
+
 </p>
 
 
