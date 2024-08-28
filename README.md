@@ -18,7 +18,7 @@
 - Technologist: I love using Software as a solution for every Problem.
 - Computer : I am a competitive programmer at Codeforces, Leetcode.
 - Student : I’m currently learning Computer Science and Software Engineering.
-- Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1vtYpIJLR-d4HlVNwweZyrbY-mr7pXTi0/view?usp=sharing).
+- Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1EitYjBipcmEfBKFUam_gHdJr7LLjr_6n/view?usp=sharing).
 
 <br>
 
