@@ -39,9 +39,10 @@
 </p>
 
 ## My Frequent Used Resources
+<p align="center">
 <a href="https://www.javatpoint.com/cpp-oops-concepts"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-  alt="webpack"
+  src="https://github.com/user-attachments/assets/e8d9d936-fa62-45e4-8136-fd7ee9a95888"
+  alt="jtp"
   width="40"
   height="40"
 /></a>
