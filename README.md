@@ -14,7 +14,7 @@
 - Technologist: I love using Software as a solution for every Problem.and explore Innovation with new Technologies.
 - Computer : I am a competitive programmer at Codeforces, Leetcode.
 - Student : I’m currently learning Computer Science and Software Engineering.
-- Thinking : I’m currently open for a new job opportunity, this is [RESUME](https://drive.google.com/file/d/1EitYjBipcmEfBKFUam_gHdJr7LLjr_6n/view?usp=sharing).
+- Thinking : I’m currently open for a new job opportunity, this is [RESUME](https://drive.google.com/file/d/19om4OGT9LOv5YrqcTWmNHxF7rEnUkMQ0/view?usp=sharing).
 - I’m currently open to new opportunities—take a look at [PORTFOLIO](https://vinaytheprogrammer.github.io/vinayGupta.io/).
 <br>
 
