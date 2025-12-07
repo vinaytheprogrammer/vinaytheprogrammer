@@ -28,10 +28,6 @@
 <a href="https://www.hackerrank.com/vinaytheprogram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaytheprogram1" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/vinaygupta12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 
-
-<!-- <a href="https://stackoverflow.com/users/19450935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19450935" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/vinaythepro" target="blank"><img align="center" src="https://img.icons8.com/color/49/000000/codechef.png" alt="vinaythepro" height="30" width="40" /></a> -->
-
 </p>
 
 ## My Frequent Used Resources
@@ -103,9 +99,6 @@
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=vinaytheprogrammer&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=vinaytheprogrammer&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaytheprogrammer&include_all_commits=true&count_private=true&layout=compact&langs_count=8&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
