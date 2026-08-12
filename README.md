@@ -15,7 +15,7 @@
 - Computer : I am a competitive programmer at Codeforces, Leetcode.
 - Student : I’m currently learning Computer Science and Software Engineering.
 - Thinking : I’m currently open for a new job opportunity, this is [RESUME](https://docs.google.com/document/d/1KW6qYP0GPAoS4B2SwZh15haVV3tCjGgh9wwIc3ngqJM/edit?usp=sharing).
-- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://me.vinaygupta.tech/).
+- I’m currently open to new opportunities—take a look at [PORTFOLIO](https://vinaytheprogrammer.github.io/).
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="vinaytheprogrammer" /> </p>
