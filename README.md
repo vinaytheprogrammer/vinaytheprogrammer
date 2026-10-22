@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Vinay Gupta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+%26+Generative+AI+Developer;Multi-Agent+Systems+%26+MCP+Specialist;React+18+%E2%80%A2+Angular+19+%E2%80%A2+Fastify+%E2%80%A2+Node.js;NIT+Jamshedpur+Alumnus+(MCA+2025)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+%26+Generative+AI+Developer;Active+Freelancer+%26+Open+Source+Contributor;CS+Educator+%26+UGC+NET+JRF+Aspirant;React+18+%E2%80%A2+Angular+19+%E2%80%A2+Fastify+%E2%80%A2+MCP;NIT+Jamshedpur+Alumnus+(MCA+2025)" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://vinaytheprogrammer.github.io/"><img src="https://img.shields.io/badge/Portfolio-vinaytheprogrammer.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/vinaygupta-nitjsr/"><img src="https://img.shields.io/badge/LinkedIn-Vinay%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vinaygupta.nitjsr@gmail.com"><img src="https://img.shields.io/badge/Email-vinaygupta.nitjsr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vinaytheprogrammer/Teaching"><img src="https://img.shields.io/badge/Teaching_%26_Mentorship-Active_Tutor-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Teaching" /></a>
   <a href="https://drive.google.com/file/d/19om4OGT9LOv5YrqcTWmNHxF7rEnUkMQ0/view"><img src="https://img.shields.io/badge/Resume-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
 </p>
 
@@ -15,12 +16,41 @@
 
 ## 🚀 About Me
 
-- 💻 **Full Stack & Generative AI Developer** at **SourceFuse Technologies**, engineering enterprise SaaS platforms, multi-agent AI systems, and micro-frontend architectures.
+- 💻 **Full Stack & Generative AI Developer** at **SourceFuse Technologies**, building enterprise SaaS platforms, multi-agent LLM systems, and Single-SPA micro-frontends.
+- 🛠️ **Active Freelancer & Technical Consultant**: Helping startups and businesses build production MVPs, integrate custom AI agents & MCP tools, modernize legacy stacks (Angular 13 → 19), and optimize high-throughput backends.
+- 👨‍🏫 **Computer Science Educator & Mentor**: Actively preparing for the **UGC NET JRF Examination (Computer Science & Applications)**; mentoring students and postgraduates in Data Structures & Algorithms, Object-Oriented System Design, and Full-Stack Engineering via practical GitHub workflows ([Teaching Repo](https://github.com/vinaytheprogrammer/Teaching)).
 - 🤖 **Generative AI & LLMs**: Designing multi-agent architectures using **Mastra Framework**, **AWS Bedrock AgentCore**, **Model Context Protocol (MCP)**, **RAG** pipelines with **pgvector**, and robust context engineering (token-budgeting, prompt caching, Zod structured outputs).
-- ⚡ **Full-Stack Engineering**: Hands-on expertise building production backends with **Fastify**, **Node.js**, **Express**, **LoopBack 4**, **Prisma**, and microservices, alongside dynamic frontends with **React 18**, **Angular 19**, and **Single-SPA**.
-- 🔐 **Security & System Resilience**: Built end-to-end auth with Google OAuth 2.0, PKCE, and Redis-backed refresh token rotation; remediated IDOR vulnerabilities and hardened repositories with Trivy & SonarQube.
+- 🌐 **Open Source Contributor**: Actively contributing to public tooling, extending MCP tool endpoints, and hardening open source repositories against security CVEs.
 - 🎓 **Education**: **Master of Computer Applications (MCA, 2025)** from **National Institute of Technology (NIT), Jamshedpur** & BCA (2020) from CSJMU Kanpur.
-- 🌐 **Live Portfolio**: Explore my deployed interactive portfolio at **[vinaytheprogrammer.github.io](https://vinaytheprogrammer.github.io/)**.
+
+<br/>
+
+---
+
+## 💼 Freelance & Consulting Services
+
+Available for global contract work, MVP development, and technical consulting:
+- 🤖 **Generative AI & Agent Integration**: Custom Model Context Protocol (MCP) server design, pgvector-based RAG architectures, and multi-agent workflow automation.
+- ⚡ **Full-Stack SaaS MVP Development**: Rapid zero-to-one product development with React 18, Fastify/Node.js, PostgreSQL, Redis, and Tailwind CSS.
+- 🅰️ **Enterprise Framework Migrations**: Upgrading legacy Angular (v12-14 to v19), AngularJS to React, and modernizing UI component libraries.
+- 📊 **Interactive Analytics Dashboards**: Data visualizations and telemetry monitors using Highcharts, D3.js, and Single-SPA micro-frontend integration.
+
+👉 *Looking to build or modernize a project? Reach out at [vinaygupta.nitjsr@gmail.com](mailto:vinaygupta.nitjsr@gmail.com)*
+
+<br/>
+
+---
+
+## 👨‍🏫 Teaching & Academic Mentorship
+
+- 📖 **UGC NET JRF Aspirant (Computer Science & Applications - Subject Code 87)**: Deep conceptual and theoretical command over Discrete Mathematics, DBMS, Operating Systems, Computer Networks, Software Engineering, and Automata Theory.
+- 🧑‍💻 **Practical Code Review & Assignment System**: Created and maintain the **[Teaching Repository](https://github.com/vinaytheprogrammer/Teaching)**, guiding students on real-world Git PR reviews, code optimization, and industry standards.
+- 🎯 **Mentorship Topics**:
+  - Data Structures & Algorithms in C++, Java, and JavaScript (LeetCode / Codeforces problem solving).
+  - Full-Stack Web Development (MERN, Fastify, TypeScript, REST APIs).
+  - Core CS Placement & Interview Preparation (DBMS internals, OS concurrency, System Design).
+
+👉 *Available for 1-on-1 coaching, cohort bootcamps, and guest lectures.*
 
 <br/>
 
@@ -91,14 +121,14 @@
       <p><b>Stack:</b> Angular 19 • TypeScript • Material CSS • Claude Code • Chrome DevTools</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Dispensary Management System</h3>
-      <p>Full-stack healthcare & medical inventory portal with campus student/staff validation.</p>
+      <h3>⚖️ LegisForum Freelance Portal</h3>
+      <p>Full-stack legal case management and customer intake platform engineered from scratch.</p>
       <ul>
-        <li>Role-based access control and JWT-based authentication.</li>
-        <li>Inventory replenishment tracking, medical event logging, and emergency stock alerts.</li>
-        <li>Live on Vercel with responsive React & Tailwind interface.</li>
+        <li>Custom client intake forms with validation and workload tracking dashboard.</li>
+        <li>Administrative resolution workflows and responsive mobile-first interface.</li>
+        <li>Integrated secure backend endpoints and data persistence.</li>
       </ul>
-      <p><b>Stack:</b> React.js • Node.js • Express • MongoDB • JWT • Tailwind CSS</p>
+      <p><b>Stack:</b> JavaScript • Node.js • Bootstrap • CSS3 • REST APIs</p>
     </td>
   </tr>
 </table>
