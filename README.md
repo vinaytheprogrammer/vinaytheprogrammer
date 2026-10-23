@@ -164,10 +164,6 @@ Available for global contract work, MVP development, and technical consulting:
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
-</div>
-
 <br/>
 
 ---
