@@ -89,7 +89,7 @@ Available for global contract work, MVP development, and technical consulting:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 ARC AI Agent Platform</h3>
+      <h3>🤖 AI Agent Platform</h3>
       <p>Multi-agent SaaS platform transforming project intake into full architecture blueprints in real time.</p>
       <ul>
         <li>Orchestrator, control-plane, question-critic, and document-generator agents via Mastra & Bedrock AgentCore.</li>
@@ -99,7 +99,7 @@ Available for global contract work, MVP development, and technical consulting:
       <p><b>Stack:</b> React 18 • Fastify • TypeScript • Mastra • AWS Bedrock • Prisma • pgvector • Redis</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚢 Fleet Management Enterprise Systems</h3>
+      <h3>🚢 Plet Management Enterprise Systems</h3>
       <p>Single-SPA micro-frontend document management and maritime tracking visualizers for Fleet Management Ltd.</p>
       <ul>
         <li>Single-SPA micro-frontends with role-based document access controls and in-browser PDF rendering (pdf-lib).</li>
@@ -111,7 +111,7 @@ Available for global contract work, MVP development, and technical consulting:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🅰️ Rakuten Vendor Manager Overhaul</h3>
+      <h3> Raen Vendor Manager Overhaul</h3>
       <p>Enterprise framework migration and UI stability enhancement for Rakuten Group, Inc.</p>
       <ul>
         <li>Migrated enterprise application from Angular 13 to Angular 19.</li>
