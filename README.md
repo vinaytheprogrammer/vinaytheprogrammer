@@ -100,7 +100,7 @@ Available for global contract work, MVP development, and technical consulting:
     </td>
     <td width="50%" valign="top">
       <h3>🚢 Plet Management Enterprise Systems</h3>
-      <p>Single-SPA micro-frontend document management and maritime tracking visualizers for Fleet Management Ltd.</p>
+      <p>Single-SPA micro-frontend document management and maritime tracking visualizers for Plet Management Ltd.</p>
       <ul>
         <li>Single-SPA micro-frontends with role-based document access controls and in-browser PDF rendering (pdf-lib).</li>
         <li>Interactive Highcharts & D3.js visualization POCs for vessel and POD operations.</li>
@@ -112,7 +112,7 @@ Available for global contract work, MVP development, and technical consulting:
   <tr>
     <td width="50%" valign="top">
       <h3> Raen Vendor Manager Overhaul</h3>
-      <p>Enterprise framework migration and UI stability enhancement for Rakuten Group, Inc.</p>
+      <p>Enterprise framework migration and UI stability enhancement for Raen Group, Inc.</p>
       <ul>
         <li>Migrated enterprise application from Angular 13 to Angular 19.</li>
         <li>Refactored Material CSS components to eliminate breaking design inconsistencies.</li>
