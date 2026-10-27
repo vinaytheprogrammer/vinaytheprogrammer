@@ -115,8 +115,8 @@ Available for global contract work, MVP development, and technical consulting:
       <p><b>Stack:</b> React 18 • Fastify • TypeScript • Mastra • AWS Bedrock • Prisma • pgvector • Redis</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚢 Plet Management Enterprise Systems</h3>
-      <p>Single-SPA micro-frontend document management and maritime tracking visualizers for Plet Management Ltd.</p>
+      <h3>🚢 Fleet Management Enterprise Systems</h3>
+      <p>Single-SPA micro-frontend document management and maritime tracking visualizers for Fleet Management Ltd (via SourceFuse Technologies).</p>
       <ul>
         <li>Single-SPA micro-frontends with role-based document access controls and in-browser PDF rendering (pdf-lib).</li>
         <li>Interactive Highcharts & D3.js visualization POCs for vessel and POD operations.</li>
@@ -127,8 +127,8 @@ Available for global contract work, MVP development, and technical consulting:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3> Raen Vendor Manager Overhaul</h3>
-      <p>Enterprise framework migration and UI stability enhancement for Raen Group, Inc.</p>
+      <h3>🔴 Rakuten Vendor Manager Overhaul</h3>
+      <p>Enterprise framework migration and UI stability enhancement for Rakuten Group, Inc. (via SourceFuse Technologies).</p>
       <ul>
         <li>Migrated enterprise application from Angular 13 to Angular 19.</li>
         <li>Refactored Material CSS components to eliminate breaking design inconsistencies.</li>
@@ -172,15 +172,7 @@ Available for global contract work, MVP development, and technical consulting:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaytheprogrammer&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Vinay's GitHub Streak" />
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vinaytheprogrammer/vinaytheprogrammer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<br/>
 
 ---
 
