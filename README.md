@@ -16,15 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer&label=Profile+Views&color=0e75b6&style=flat-square" alt="GitHub Profile Views" />
   &nbsp;&nbsp;
   <a href="https://vinaytheprogrammer.github.io/">
-    <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer-portfolio-swe&label=SWE+Portfolio+Visits&color=2563eb&style=flat-square" alt="SWE Page Visits" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vinaytheprogrammer.github.io/tutor">
-    <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer-portfolio-tutor&label=Tutor+Portal+Visits&color=10b981&style=flat-square" alt="Tutor Page Visits" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://vinaytheprogrammer.github.io/freelancer">
-    <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer-portfolio-freelancer&label=Freelance+Visits&color=8b5cf6&style=flat-square" alt="Freelance Page Visits" />
+    <img src="https://komarev.com/ghpvc/?username=vinaytheprogrammer-portfolio&label=Portfolio+Visits&color=2563eb&style=flat-square" alt="Portfolio Visits" />
   </a>
 </p>
 
